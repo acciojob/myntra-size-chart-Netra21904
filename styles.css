@@ -1,2 +1,26 @@
-
-/* Your CSS Code here. */
+table{
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 8px;
+	margin: 8px;
+}
+th,td{
+	border: 1px solid black;
+	padding-right: 50px;
+	margin: 9px;
+}
+thead{
+	background-color : #E06666;
+	color: white;
+	text-align: left;
+}
+.waist{
+	background-color : #F08080;
+	color: white;
+}
+.chest{
+	background-color : #F4CCCC;
+}
+.sleeve{
+	background-color : #D9D9D9;
+}
